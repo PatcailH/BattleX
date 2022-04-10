@@ -813,7 +813,7 @@ while run:
 
         draw_text("Have  Fun!!!    Credit  goes  to", arcadeFont(40), BLACK, 100, 470)
         draw_text("Ryan  Elyakoubi      Patrick  Hoang", arcadeFont(40), BLACK, 100, 510)
-        draw_text("Dev  Upadhyay", arcadeFont(40), BLACK, 100, 550)
+        draw_text("Afnan Habib       and       Samet Cimen", arcadeFont(40), BLACK, 100, 550)
 
     if start_game == False and page == 3:  # Page 3 is the leaderboard
         screen.fill(BG)
