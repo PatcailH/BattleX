@@ -1,0 +1,11 @@
+Presentation Template: SlidesMania
+Sample Images: Unsplash
+
+Languages: Python
+IDEs: Pycharm CE [Community Edition]
+Libraries: Pygame [GNU LGPL v2.1]
+Font: Arcade Classic [Terms]
+
+Code Assistance: StackOverflow
+Game Music: Humble Match [Royalty Free]
+Game Assets: Code With Russ [MIT License]
